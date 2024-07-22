@@ -125,7 +125,7 @@
 }
 .jeri{
     height: 100%;
-    width: 100vw;
+    width: 100%;
 }
 .don{
       position: absolute;
@@ -215,7 +215,7 @@
 }
 .asd{
     height: 100%;
-    width: 100vw;
+    width: 100%;
 }
 .four{
     position: relative;
@@ -252,7 +252,7 @@
 }
 .spain{
     height: 100%;
-    width: 100vw;
+    width: 100%;
 }
 .five{
     position: relative;
@@ -290,7 +290,7 @@
 
 .india{
     height: 100%;
-    width: 100vw;
+    width: 100%;
 }
 .six{
     position: relative;
@@ -334,7 +334,7 @@
 /* 7 */
 .anu{
     height: 100%;
-    width: 100vw;
+    width: 100%;
 }
 .seven{
     position: relative;
@@ -372,7 +372,7 @@
 /* 8 */
 .italy{
     height: 100%;
-    width: 100vw;
+    width: 100%;
 }
 .eight{
     position: relative;
@@ -409,7 +409,7 @@
 }
 .ind{
     height: 100%;
-    width: 100vw;
+    width: 100%;
 }
 .nine{
     position: relative;
@@ -421,7 +421,7 @@
   left: 40px;
   background-color: white;
   width: 5%;
-  height: 2%;
+  height: 6%;
 }
 .color{
     font-size: 15px;
@@ -453,7 +453,7 @@
 /* 10 */
 .france{
     height: 100%;
-    width: 100vw;
+    width: 100%;
 }
 .ten{
     position: relative;
@@ -647,6 +647,154 @@ font-size: 20px;
 
 
 }
+/* 66 */
+.city{
+    height: 100%;
+    width: 100%;
+}
+.blue{
+    position: relative;
+    margin-top: 110px;
+}
+.div55{
+  position: absolute;
+  top: 420px;
+  left: 220px;
+  background-color: white;
+  width: 5%;
+  height: 5%;
+}
+.cv{
+    font-size: 15px;
+    margin-top: 8px;
+    margin-left: 9px;
+
+}
+.pep{
+    position: absolute;
+  color: white;
+  top: 320px;
+  left: 70px;
+
+}
+.ter{
+    position: absolute;
+    color: white;
+    top: 370px;
+    left: 180px;
+  
+
+}
+.mom2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    overflow-x: scroll;
+
+}
+.title1{
+    margin-left: 40px;
+    color: rgb(255, 3, 3);
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+.title2{
+    margin-left: 40px;
+    margin-top: 10px;
+    color: black;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.price{
+    margin-left: 40px;
+    margin-top: 10px;
+    color: rgb(20, 24, 226);
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+}
+.overimg{
+    width: 500px;
+    height: 500px;
+}
+.line{
+    position: relative;
+    border-top:1px solid black;
+    border-bottom: 1px solid black;
+    width: 100%;
+    height: 200%;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 60px;
+    background-color: #000000;
+    color: #ffffff;
+
+}
+.hl{
+    width: 100px;
+    height:100px ;
+}
+.community{
+    
+    margin-left: 300px;
+}
+.about{
+    margin-left: 150px;
+}
+.need{
+    margin-left: 100px;
+}
+.a16{
+    margin-top: 15px;
+
+}
+.bla{
+    padding: 35px;
+}
+.b1{
+    margin-top: 15px;
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.eed{
+    margin-left: 200px;
+}
+.a22{
+    height: 50px;
+    width: 100%;
+}
+.vvv{
+    height: 50px;
+    width: 100%;
+}
+.csd{
+    
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+}
+.www{
+    position:absolute ;
+    color: #ffffff;
+    background-color: #ffffff;
+    height: 50px;
+    width: 100px;
+    bottom: 20px;
+    align-items: center;
+    border-radius: 10%;
+}
+
+
   
 
   
